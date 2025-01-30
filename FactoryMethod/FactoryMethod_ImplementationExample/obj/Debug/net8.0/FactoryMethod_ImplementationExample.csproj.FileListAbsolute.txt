@@ -12,3 +12,4 @@ D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_I
 D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_ImplementationExample\obj\Debug\net8.0\FactoryMethod_ImplementationExample.pdb
 D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_ImplementationExample\obj\Debug\net8.0\FactoryMethod_ImplementationExample.genruntimeconfig.cache
 D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_ImplementationExample\obj\Debug\net8.0\ref\FactoryMethod_ImplementationExample.dll
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_ImplementationExample\obj\Debug\net8.0\FactoryMethod_ImplementationExample.sourcelink.json

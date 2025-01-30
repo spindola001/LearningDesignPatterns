@@ -15,7 +15,7 @@ namespace FactoryMethod_ImplementationExample.Services
         {
             var product = FactoryMethod();
 
-            var result = $"Notificação padrão: {product.SendNotification}";
+            var result = $"Notificação padrão: {product.SendNotification()}";
 
             return result;
         }

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\workspace\\my_projects\\DesignPatterns\\Creational\\FactoryMethod\\FactoryMethod_ImplementationExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0226E2E-0CD3-4E1F-B0A4-DB452C28235B}|FactoryMethod_ImplementationExample.csproj|d:\\workspace\\my_projects\\designpatterns\\creational\\factorymethod\\factorymethod_implementationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0226E2E-0CD3-4E1F-B0A4-DB452C28235B}|FactoryMethod_ImplementationExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0226E2E-0CD3-4E1F-B0A4-DB452C28235B}|FactoryMethod_ImplementationExample.csproj|d:\\workspace\\my_projects\\designpatterns\\creational\\factorymethod\\factorymethod_implementationexample\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0226E2E-0CD3-4E1F-B0A4-DB452C28235B}|FactoryMethod_ImplementationExample.csproj|solutionrelative:services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0226E2E-0CD3-4E1F-B0A4-DB452C28235B}|FactoryMethod_ImplementationExample.csproj|d:\\workspace\\my_projects\\designpatterns\\creational\\factorymethod\\factorymethod_implementationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0226E2E-0CD3-4E1F-B0A4-DB452C28235B}|FactoryMethod_ImplementationExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 188,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,29 +74,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "NotificationService.cs",
               "DocumentMoniker": "D:\\workspace\\my_projects\\DesignPatterns\\Creational\\FactoryMethod\\FactoryMethod_ImplementationExample\\Services\\NotificationService.cs",
               "RelativeDocumentMoniker": "Services\\NotificationService.cs",
               "ToolTip": "D:\\workspace\\my_projects\\DesignPatterns\\Creational\\FactoryMethod\\FactoryMethod_ImplementationExample\\Services\\NotificationService.cs",
               "RelativeToolTip": "Services\\NotificationService.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAQwGYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T00:47:13.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace\\my_projects\\DesignPatterns\\Creational\\FactoryMethod\\FactoryMethod_ImplementationExample\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\workspace\\my_projects\\DesignPatterns\\Creational\\FactoryMethod\\FactoryMethod_ImplementationExample\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T00:18:38.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T00:18:38.422Z"
             }
           ]
         }

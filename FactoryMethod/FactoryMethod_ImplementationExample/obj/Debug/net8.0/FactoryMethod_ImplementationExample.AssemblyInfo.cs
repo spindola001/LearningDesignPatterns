@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FactoryMethod_ImplementationExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6ee2779ac57d96c6d46e219284481a974222e08")]
 [assembly: System.Reflection.AssemblyProductAttribute("FactoryMethod_ImplementationExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FactoryMethod_ImplementationExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
