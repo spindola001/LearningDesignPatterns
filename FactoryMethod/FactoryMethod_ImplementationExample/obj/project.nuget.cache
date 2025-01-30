@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FDeaddxHaV0=",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\my_projects\\DesignPatterns\\Creational\\FactoryMethod\\FactoryMethod_ImplementationExample\\FactoryMethod_ImplementationExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

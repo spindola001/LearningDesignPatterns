@@ -1,0 +1,14 @@
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_01\bin\Debug\net8.0\FactoryMethod_01.exe
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_01\bin\Debug\net8.0\FactoryMethod_01.deps.json
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_01\bin\Debug\net8.0\FactoryMethod_01.runtimeconfig.json
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_01\bin\Debug\net8.0\FactoryMethod_01.dll
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_01\bin\Debug\net8.0\FactoryMethod_01.pdb
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_01\obj\Debug\net8.0\FactoryMethod_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_01\obj\Debug\net8.0\FactoryMethod_01.AssemblyInfoInputs.cache
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_01\obj\Debug\net8.0\FactoryMethod_01.AssemblyInfo.cs
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_01\obj\Debug\net8.0\FactoryMethod_01.csproj.CoreCompileInputs.cache
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_01\obj\Debug\net8.0\FactoryMethod_01.dll
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_01\obj\Debug\net8.0\refint\FactoryMethod_01.dll
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_01\obj\Debug\net8.0\FactoryMethod_01.pdb
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_01\obj\Debug\net8.0\FactoryMethod_01.genruntimeconfig.cache
+D:\workspace\my_projects\DesignPatterns\Creational\FactoryMethod\FactoryMethod_01\obj\Debug\net8.0\ref\FactoryMethod_01.dll
