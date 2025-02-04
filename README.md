@@ -5,7 +5,7 @@
 
 # Padrões criacionais
 
-- São padrões que pensados para criar objetos com mais flexibilidade e reusabilidade.
+- São padrões pensados para criar objetos com mais flexibilidade e reusabilidade.
 
 ## Factory Method
 
