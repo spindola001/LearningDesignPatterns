@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AbstractFactory_ImplementatioExample": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

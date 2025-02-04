@@ -1,0 +1,64 @@
+﻿## Ignore the following build outputs
+bin/
+obj/
+
+## User-specific files
+.idea/
+.vs/
+.vscode/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+## Windows Installer files
+*.pdb
+*.swp
+
+## ASP.NET temporary files
+wwwroot/
+
+## ASP.NET MVC/ Web API
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## JetBrains Rider
+.idea/
+
+## User-specific files for Visual Studio for Mac
+.vscode/
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ebug_All/
+[Dd]Release/
+[Dd]ReleasePublic/
+
+## Npm packages
+node_modules/
+
+## VS for Mac
+.vscode/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET Core Publish Output
+publish/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
