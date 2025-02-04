@@ -1,7 +1,7 @@
 # Design Patterns
 
 - Aqui você encontra exemplos simples das implementações dos Design Patterns descritos no site "https://refactoring.guru/pt-br/design-patterns"
-- São implementações simples, pois a ideia é fixar o conceitos desses padrões na cabeça e deixar documentado, até mesmo para que outras pessoas consultem.
+- São implementações simples, pois a ideia é fixar os conceitos desses padrões na cabeça e deixar documentado, até mesmo para que outras pessoas consultem.
 
 # Padrões criacionais
 
