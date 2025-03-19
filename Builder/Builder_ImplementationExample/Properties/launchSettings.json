@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Builder_ImplementationExample": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
